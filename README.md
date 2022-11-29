@@ -10,7 +10,7 @@ Using multi-threading in Rust to implement the [MapReduce](https://en.wikipedia.
 ## Building
 - Run `cargo build`
 
---
+---
 
 ## Testing
 - Run `cargo run x y`, where x is the number of partitions and y is the size of the whole dataset
